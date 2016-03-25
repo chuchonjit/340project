@@ -1,0 +1,422 @@
+cd ~
+cd 
+cd ?
+cd ~
+ls
+cd picures
+vi pictures
+sudo ps -ef
+vi/etc/fstab
+/etc/fstab
+sudo /etc/fstab
+cd dev
+ce /dev
+cd /dev
+ls
+| less
+/etc/ftab
+cd .
+cd ..
+/etc/ftab
+cd /dev
+ls
+cd cou
+cpu
+cd cpu
+ls
+cat microcode
+cd ..
+sudo cat ram0
+sudo vi ram0
+cd ..
+useradd -m -s /usr/bin/ksh web_master
+useradd -m -s /usr/bin/bash web_master
+cd ~
+useradd -m -s /usr/bin/bash web_master
+sudo passwd web_master aaa
+sudo passwd web_master aaaaa
+useradd -m -s /usr/bin/bash web_master
+sudo useradd -m -s /usr/bin/bash web_master
+crontab.bak
+crontab crontab.bak
+*/5 **** -l > ~/crontab.bak
+*/5 **** -e > ~/crontab.bak
+*/5 **** -e 
+crontab
+crontab -e
+vim ~/.bashrc
+vim
+sudo apt get install vim
+sudo apt install vim
+vim ~/.bashrc
+crontab -e
+vim crontab -e
+vi crontab -e
+var/log
+~
+cd !
+cd ~
+var/log
+cd ..
+var/log
+/var/log
+~
+cd ~
+/var/log
+var/log./
+var/log/
+cd ..
+/var/log
+/var/log/
+var/log
+/var/log
+/var/log$
+cd /var/log$
+cd /var/log
+ls
+cd ..
+ls
+cd ?
+cd /
+tar -czvf ~/etc/.tgz
+sudo tar -czvf ~/etc/.tgz
+cd /
+asp get vim install
+apt-get vim install
+sudo apt-get vim install
+sudo telinit6
+sudo telinit 6
+man shutdown
+vim test
+vim test..sh
+spunge
+./test.sh
+rn test..sh test.sh
+mv test..sh test.sh
+ls
+./test.sh
+sudo ./test.sh
+.\test.sh
+\test.sh
+ls
+vim test.sh
+sudo apt-get install git init
+git init
+ls la
+ls -la
+git add test.sh
+git status
+git commit
+git config --global user.email "you@example.com"
+git config --global user.email "jda29@njit.edu"
+git commit
+git status
+git commit
+git vim commit
+y
+history
+ls -la
+git status
+ls -la
+git commit
+git config -- global user.name "jesus"
+git commit
+whoami
+git config -- global user.name jesus
+git config --user.name jesus
+git config --global user.name jesus
+git commit
+gitk
+git add test.sh
+gitk
+sudo apt-get install gitk
+gitk
+:q!
+git config --global user.name jesus
+gitk
+sudo apt-get install synaptic
+man aptitude
+sudo apt-get install compizconfig-setting-manag
+sudo apt-get install compizconfig-setting-manage
+sudo apt-get install compizconfig-settings-manage
+apt-get install compizconfig-settings-manage
+y
+sudo apt-get install compizconfig-settings-manager
+git config --global user.name jesus
+gitk
+ls
+vi test.sh
+gitk
+mkdir gittest
+mv test.sh gittest
+cd gittest
+lks
+ls
+getinit
+gitk
+git init
+gitk
+git add test.sh
+git commit
+gitk
+git commit -a
+git config --global user.email jda29@njit.edu
+gitk
+git commit 
+git push
+git remote add origin https://github.com/chuchonjit/340project.git
+git push -u origin master
+cd ~
+cd home
+/hme
+/home
+cd /home
+ls
+cd jesus
+ls
+cd gittest
+ls
+/dev/sda1
+sudo /dev/sda1
+cd /dev/sda1
+/dev
+cd /dev
+ls
+grep sda1
+runlevel
+/etc/init -e
+/etc/init.d
+cd /etc/init.d
+ls
+cd ..
+cd rc0.d
+ls
+cd ..
+cd var/run
+pwd -p
+pwd
+cd ..
+ls
+cd run
+ls
+pwd -P
+cd ..
+cd etc
+cd rc2.d
+ls
+cd .. /rc1.d
+ls
+cd rcq.d
+cd rc1.d
+ls
+cd ..
+rc6.d
+cd rc6.d
+ls
+cd ..
+sudo aptitude
+sudo apt-get aptitude
+sudo aptitude
+cd ~
+sudo aptitude
+cd home
+cd /
+sudo apttude
+sudo aptitude
+sudo apt-get install xfce4
+apt-get update 
+sudo apt-get update
+roxah
+man roxah
+lightdm
+sudo lightdm
+sudo apt-get update
+sudo aptitude
+aptitudo
+aptitude
+sudo apt-get install aptitude
+apt-get update
+y
+sudo apt-get update 
+sudo apt-get apache.2
+exit
+sudo apt-get 
+sudo apt-get install aptitude
+sudo apt-get python 
+sudo apt-get python.exe
+jehova07@
+sudo apt-get python3.5
+sudo apt-get python 3.5
+sudo apt-get python3.5
+sudo apt-get python3
+wget --no-check-certificate https://www.python.org/ftp/python/3.5/Python-3.5.tgz
+wget --no-check-certificate https://www.python.org/downloads/
+wget --no-check-certificate https://www.python.org/downloads/python-3.5.1.tar.xz
+sudo apt-get install gparted
+gedit /etc/samba/smb.conf
+sudo gedit /etc/samba/smb.conf
+mkdir -p /srv/samba/share
+sudo mkdir -p /srv/samba/share
+chown nobody.nogroup /srv/samba/share
+sudo chown nobody.nogroup /srv/samba/share
+restart smbd
+sudo restart smbd
+/etc/init.d/smbd start
+/etc/init.d/smbd restart
+service smbd status
+sudo service smbd status
+ifconfig
+sudo gedit /etc/samba/smb.conf
+ifconfig
+sudo gedit /etc/samba/smb.conf
+ifconfig
+sudo gedit /etc/samba/smb.conf
+cd /etc/fstab 
+man quotacheck
+cat /etc/fstab
+vi  /etc/fstab
+vim  /etc/fstab
+sudo vim  /etc/fstab
+sudo mount -o remount /home
+sudo mount -o remount /home/
+sudo vim  /etc/fstab
+sudo mount -o remount /home/
+quotacheck -cvu /home/
+sudo apt-get install quota
+sudo mount -o remount /home/
+quotacheck -cvu /home/
+sudo mount -o remount /home/
+mount -o remount /home/
+sudo mount -o remount /home/
+sudo vim  /etc/fstab
+
+sudo vim  /etc/fstab
+sudo mount -o remount /home/
+sudo vim  /etc/fstab
+sudo mount -o remount /home/
+sudo vim  /etc/fstab
+sudo mount -o remount /home/
+sudo vim  /etc/fstab
+sudo vim  /etc/fstab
+sudo mount -o remount /home/
+sudo mount -o remount /home
+sudo mount -vo remount /home
+sudo vim  /etc/fstab
+sudo mount -vo remount /home
+quotacheck -vgum /home
+quota -av
+quotaon -av
+sudo mount -vo remount /home
+sudo mount -o remount /home
+sudo vim  /etc/fstab
+sudo mount -o remount /home
+sudo apt-get ftp
+rpm -qa | grep -i vsftpd
+sudo apt-get isntall rpm
+sudo apt-get install  rpm
+rpm -qa | grep -i vsftpd
+vi /etc/vsftpd
+vi /etc/vsftpd/vsftpd.conf
+ls
+cd #
+ls
+rpm -ivh vsftpd
+sudo vim  /etc/fstab 
+rpm -ivh vsftpd-2.0.5-12.e15.i386.rpm
+sudo apt-get install vsftpd
+vi /etc/vsftpd/vsftpd.conf
+vi /etc/vsftpd.conf
+sudo vi /etc/vsftpd.conf
+sudo vi /etc/ftpusers
+sudo vi /vsftpd/user_list
+sudo vi etc/vsftpd/user_list
+sudo vi /etc/vsftpd/user_list
+sudo vi /etc/vsftpd/users
+sudo vi /etc/vsftpd/ ?
+sudo vi /etc/vsftpd/userslist
+sudo vi /etc/vsftpd/
+sudo vi /etc/vsftpd userlist
+service vsftos start 
+chkconfig vsftpd on
+chkconfig vsftpd 
+chkconfig 
+man chkconfig 
+setsebool -P ftp_home_dir=1
+sudo apt-get indtsll setsebool
+sudo apt-get install setsebool
+setsebool -P ftp_home_dir=1
+sudo apt-get install policycoreutils
+setsebool -P ftp_home_dir=1
+ifconfig 
+vi /etc/vsftpd.conf
+vi /etc/vsftpd.user
+vi /etc/vsftpd/user
+vi /etc/vsftpd/vsftpd_user
+sudo vi /etc/vsftpd/user_list
+sudo vi etc/vsftpd/user_list
+sudo vi etc/vsftpd/vsftpd_userlist
+sudo vi etc/vsftpd/ftpusers
+sudo vi /etc/vsftpd/ftpusers
+sudo vi etc/vsftpd/vsftpd_userlist
+sudo vi etc/vsftpd/ftpusers
+
+vi /etc/vsftpd.conf
+sudo vi /etc/vsftpd.conf
+/etc/init.d/vsftpd start
+service vsftpd start
+ftp 192.168.1.156
+ls
+cd MYproject
+ls
+cd ~
+sudo vi /etc/vsftpd/vsftpd.conf 
+sudo vi /etc/vsftpd.conf 
+sudo vi /etc/vsftpd.conf > home/MYproject/VSFTPFILE.txt
+sudo vi /etc/vsftpd.conf > home/MYproject/
+sudo vi /etc/vsftpd.conf > MYproject/
+sudo vi /etc/vsftpd.conf > MYproject
+sudo vi /etc/vsftpd.conf > MYproject/ftpconfig
+sudo vim /etc/vsftpd.conf > MYproject/ftpconfig
+ls
+cd MYproject
+ls
+vi ftpconfig
+rm ftpconfig
+ls
+sudo vim /etc/vsftpd.conf > MYproject/ftpconfig.txt
+sudo vim /etc/vsftpd.conf > ftpconfig.txt
+ls
+vi ftpconfig.txt
+rm ftpconfig
+rm ftpconfig.txt
+ls
+cd ~
+history -w ~/MYproject/history.txt
+ls
+cd MYproject
+ls
+vi history 
+ls
+cd ~
+sudo vi etc/samba.conf
+cd etc/samba
+cd etc/
+ls
+vi yum repos.d
+cd ~
+sudo vi /etc/samba/samba.conf
+sudo vi /etc/samba/smb.conf
+sudo vi /etc/samba/smb.conf > /home/MYproject/SAMBAFILE.txt
+cd MYproject
+ls
+mkdir SAMBAFILE.txt
+ls
+cd ~
+sudo vi /etc/samba/smb.conf > /home/MYproject/SAMBAFILE.txt
+sudo /etc/samba/smb.conf > /home/MYproject/SAMBAFILE.txt
+sudo /etc/samba/smb.conf > /home/MYproject/SAMBAFILE
+sudo /etc/samba/smb.conf > /home/MYproject/SAMBAFILE.txt
+sudo vi /etc/samba/smb.conf > /home/MYproject/SAMBAFILE.txt
+sudo cp /etc/samba/smb.conf /home/MYproject/SAMBAFILE.txt
+sudo cp /etc/samba/smb.conf /home/MYproject/SAMBAFILE
+history -w ~/MYproject/history.txt

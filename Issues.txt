@@ -1,0 +1,1 @@
+I almost broke my linux system partition trying to create a disk quota for my test user. After I made changes to fstab config file. My linux partition wouldnt boot. I had to revert the changes I made in Ubuntu safe mode and i was able to resume work fine. still trying to get disk usrquota to work. 
